@@ -1,0 +1,120 @@
+
+
+body {
+    background-color: white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+p {
+  background-color: bisque;
+  text-align: center;
+  font-family: 'Brygada 1918', serif;
+  font-size: 20px; 
+}
+#about-text {
+  align-self: stretch;
+}
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h1 {
+  font-family: 'Brygada 1918', serif;
+}
+h2 {
+  text-align: center;
+}
+header {  
+  background-color: lightblue;
+  height: 100px;
+  width: 100%;
+  display: inline-block;
+  text-align: left;
+}
+
+nav ul li {
+  display:inline;
+  float: right;
+  margin-right: 20px;
+}
+#about {
+  background-color: rgb(82, 192, 192);
+  margin: 5px;
+}
+.profile-content {
+  display: flex;
+  align-items: center;
+}
+#work {
+  background-color: rgb(82, 192, 192);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.surf {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#big-image {
+  width: 100%;
+}
+.other-projects {
+  display: flex;
+  flex-wrap: wrap;
+}
+.project-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+}
+.project-image {
+  width: 50%;
+}
+#contact {
+  background-color: rgb(82, 192, 192);
+  margin: 5px;
+}
+
+#about img {
+  margin: 0px;
+  width: 200px;
+  border-radius: 50px;
+  float:left;
+} 
+#contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#contact ul {
+  display: flex;
+  justify-content: space-between;
+}
+#contact ul li {
+  margin: 0 50px;
+}
+
+.footer {
+font-family: 'Times New Roman', Times, serif ;
+}
+
+@media screen and (max-width: 768px) {
+  header {
+    display: flex;
+    flex-direction: row;
+  }
+}
+@media screen and (max-width:576px){
+  nav {
+    display: flex;
+    flex-direction: row;
+  }
+}
+@media screen and (max-width: 376px){
+  #about {
+    display: flex;
+    flex-direction: row;
+  }
+}
