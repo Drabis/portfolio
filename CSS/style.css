@@ -107,7 +107,7 @@ font-family: 'Times New Roman', Times, serif ;
   }
 }
 @media screen and (max-width:576px){
-  nav {
+  body {
     display: flex;
     flex-direction: row;
   }
