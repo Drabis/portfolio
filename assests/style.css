@@ -1,0 +1,52 @@
+
+
+body {
+    background-color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0%;
+}
+p {
+  /* background-color: bisque; */
+  /* color: black; */
+  text-align: center;
+  font-family: 'Brygada 1918', serif;
+  font-size: 20px; 
+}
+.profile {
+  max-width: 100%;
+}
+nav ul li {
+  color: white;
+  display:inline;
+  float: right;
+  margin-right: 20px;
+}
+.head {
+  background-color: black;
+  color: white;
+margin: 0%;
+}
+.container {
+
+}
+.img-fluid {
+  width: auto;
+  height: 500px;
+  margin-top: 15%;
+  border-radius: 50%;
+  border: black solid;
+  background-color: black;
+}
+a {
+  text-decoration: none;
+  font-size: 30px;
+  color: white;
+}
+h2 {
+  background-color: lightgray;
+  text-align: center;
+  background-size: contain;
+  border-radius: 10px;
+  color: black;
+}
