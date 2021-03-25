@@ -35,8 +35,8 @@ margin: 0%;
   height: 500px;
   margin-top: 15%;
   border-radius: 50%;
-  border: black solid;
-  background-color: black;
+
+ 
 }
 a {
   text-decoration: none;
@@ -44,9 +44,13 @@ a {
   color: white;
 }
 h2 {
-  background-color: lightgray;
+  background-color: rgb(139, 224, 217);
   text-align: center;
   background-size: contain;
   border-radius: 10px;
   color: black;
+}
+.popover-dismiss {
+  width: 80%;
+  
 }
