@@ -1,6 +1,6 @@
 Link to the my portfolio:  https://drabis.github.io/portfolio/
 # portfolio
-Welcome to my portfolio. Here you'll read about me and have access to my work. When accessing my page you will be present to view my contact info and also how to connect with me on my socials media.  
+Welcome to my portfolio. Here you'll read about me and have access to my work. When accessing my page you will be present to view my simple design page along with my contact info and also how to connect with me on my socials media.  
 
 ## Acceptance Criteria
 
