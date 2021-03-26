@@ -1,6 +1,6 @@
 Link to the my portfolio:  https://drabis.github.io/portfolio/
 # portfolio
-In this assignemnt I aim to create a portfolio to showcase my work. The project will talk a bit about myself, my work and how to connect with me. I have use some of the work we have learned throughout this course to create this portfolio. Please reach out if you have any question.
+Welcome to my portfolio. Here you'll read about me and have access to my work. When accessing my page you will be present to view my simple design page along with my contact info and also how to connect with me on my socials media.  
 
 ## Acceptance Criteria
 
