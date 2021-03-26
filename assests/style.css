@@ -1,17 +1,14 @@
-
-
-body {
-    background-color: white;
-    font-family:Arial, Helvetica, sans-serif;
-    padding: 0;
-    margin: 0%;
+* {
+  padding: 0;
+  margin: 0;
+  border-style: solid black;
 }
+
 p {
-  /* background-color: bisque; */
-  /* color: black; */
   text-align: center;
   font-family: 'Brygada 1918', serif;
   font-size: 20px; 
+  margin: 2px;
 }
 .profile {
   max-width: 100%;
@@ -25,9 +22,8 @@ nav ul li {
 .head {
   background-color: black;
   color: white;
-margin: 0%;
-}
-.container {
+margin: 0;
+
 
 }
 .img-fluid {
@@ -35,7 +31,6 @@ margin: 0%;
   height: 500px;
   margin-top: 15%;
   border-radius: 50%;
-
  
 }
 a {
@@ -46,9 +41,12 @@ a {
 h2 {
   background-color: rgb(139, 224, 217);
   text-align: center;
-  background-size: contain;
+ margin-top: 5px;
   border-radius: 10px;
-  color: black;
+  color: black; 
+}
+#label {
+  margin-top: 10px;
 }
 .popover-dismiss {
   width: 80%;
