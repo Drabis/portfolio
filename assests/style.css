@@ -28,10 +28,10 @@ margin: 0;
 
 
 }
-.img-fluid {
+.profile {
   width: auto;
   height: 500px;
-  margin-top: 15%;
+  margin-top: 2px;
   border-radius: 50%;
  
 }
@@ -49,6 +49,7 @@ h2 {
 }
 #label {
   margin-top: 10px;
+  max-height: 40px;
 }
 /* .img-thumbnail {
   width: 50px;
