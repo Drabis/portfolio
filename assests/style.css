@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   border-style: solid black;
+  /* font-family: Brygada; */
 }
 
 p {
@@ -56,7 +57,15 @@ h2 {
 /* .popover-dismiss{
   width: 50%;
 } */
-.container {
+.row {
   display: flex;
   padding: 5vh;
+  margin-left: 5%;
+}
+.card-tile {
+  background-color: rgb(139, 224, 217);
+  width: 100%;
+}
+.btn {
+  background-color: rgb(72, 146, 230);
 }
