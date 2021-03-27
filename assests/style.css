@@ -2,8 +2,6 @@
   padding: 0;
   margin: 0;
   border-style: solid black;
- 
-  /* font-family: Brygada; */
 }
 
 p {
@@ -12,9 +10,6 @@ p {
   font-size: 20px; 
   margin: 2px;
 }
-/* .profile {
-  max-width: 100%;
-} */
 nav ul li {
   color: white;
   display:inline;
@@ -29,11 +24,11 @@ margin: 0;
 
 }
 .profile {
-  width: auto;
+  width: 100%;
   height: 500px;
   margin-top: 2px;
   border-radius: 50%;
- 
+  align-items: center;
 }
 a {
   text-decoration: none;
@@ -51,11 +46,6 @@ h2 {
   margin-top: 10px;
   max-height: 40px;
 }
-/* .img-thumbnail {
-  width: 50px;
-  display: flex;
- flex-direction: row;
-} */
 .card-tile {
   background-color: rgb(139, 224, 217);
   width: 100%;
