@@ -53,8 +53,9 @@ h2 {
 .btn {
   background-color: rgb(72, 146, 230);
 }
-.back {
+#back {
   color: black;
   text-align: center;
-  font-size: larger;
+  font-weight: 100%;
+  
 }
