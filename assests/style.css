@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   border-style: solid black;
+  
 }
 
 p {
@@ -57,5 +58,12 @@ h2 {
   color: black;
   text-align: center;
   font-weight: 100%;
+  
+}
+.card {
+  display: inline-block;
+  width: 100%;
+  padding: 5px;
+  margin: 5px;
   
 }
