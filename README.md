@@ -1,23 +1,19 @@
-Link to the my portfolio:  https://drabis.github.io/portfolio/
-# portfolio
+
+# portfolio Website 
 Welcome to my portfolio. Here you'll read about me and have access to my work. When accessing my page you will be present to view my simple design page along with my contact info and also how to connect with me on my socials media.  
 
-## Acceptance Criteria
+## Project links
+my website link :  https://drabis.github.io/portfolio/
 
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
+## License
+  [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+  
+  ## Questions
+  For any questions do not hesitate to reach out. 
 
-```
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
-``
+  Contact me:
+  On Github: github.com/Drabis 
+
+  Via Email: drabo.aboulaye88@gmail.com
+
+
